@@ -1,0 +1,19 @@
+{
+  "name": "@karimgasmi47/iut-encrypt",
+  "version": "1.0.0",
+  "description": "+Version custom de encrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karimgasmi47/iut-encrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karimgasmi47/iut-encrypt/issues"
+  },
+  "homepage": "https://github.com/Karimgasmi47/iut-encrypt#readme"
+}
